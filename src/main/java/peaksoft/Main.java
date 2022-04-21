@@ -26,17 +26,3 @@ public class Main {
     }
 }
 
-
-
-//
-//    private final Connection connection;
-//
-//    public Main() throws SQLException {
-//        connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/project_db",
-//                "postgres",
-//                "postgresql22");
-//    }
-//    public Connection getConnection(){
-//        return connection;
-//    }
-//}
